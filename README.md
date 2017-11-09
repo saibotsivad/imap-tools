@@ -12,7 +12,7 @@ Scan *multiple* IMAP boxes, emitting each message in each box as a streamable ob
 
 ### imap-box-names ([github](https://github.com/saibotsivad/imap-box-names)|[npm](https://www.npmjs.com/package/imap-box-names))
 
-Scan an IMAP account, returning a promise that resolves with an array of names, like `[ 'INBOX', 'INBOX.archive' ]`.
+Scan an IMAP account, returning a promise that resolves with an array of box names.
 
 ### imap-fetch-everything ([github](https://github.com/saibotsivad/imap-fetch-everything)|[npm](https://www.npmjs.com/package/imap-fetch-everything))
 
